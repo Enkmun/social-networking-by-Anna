@@ -1,4 +1,4 @@
-// controllers/thoughtController.js
+
 const Thought = require('../models/Thought');
 
 const thoughtController = {
